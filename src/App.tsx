@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="flex flex-col items-center p-8 gap-10">
-      <h1 className="text-3xl font-bold">Carousel Example</h1>
+      <h1 className="text-3xl font-bold">Tailwindcss Carousel</h1>
       <AppCarousel images={images} />
     </div>
   );
